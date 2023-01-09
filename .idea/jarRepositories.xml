@@ -7,6 +7,11 @@
       <option name="url" value="https://repo.maven.apache.org/maven2" />
     </remote-repository>
     <remote-repository>
+      <option name="id" value="nti-services-snapshots" />
+      <option name="name" value="nti-services-snapshots" />
+      <option name="url" value="https://nexus.nexttech.ro/repository/nti-services" />
+    </remote-repository>
+    <remote-repository>
       <option name="id" value="central" />
       <option name="name" value="Maven Central repository" />
       <option name="url" value="https://repo1.maven.org/maven2" />
@@ -15,6 +20,26 @@
       <option name="id" value="jboss.community" />
       <option name="name" value="JBoss Community repository" />
       <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nti-services-releases" />
+      <option name="name" value="nti-services-releases" />
+      <option name="url" value="https://nexus.nexttech.ro/repository/nti-services" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nti-servicelibs-releases" />
+      <option name="name" value="nti-servicelibs-releases" />
+      <option name="url" value="https://nexus.nexttech.ro/repository/nti-servicelibs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="anonymous" />
+      <option name="name" value="anonymous" />
+      <option name="url" value="https://nexus.nexttech.ro/repository/maven-public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nti-servicelibs-snapshots" />
+      <option name="name" value="nti-servicelibs-snapshots" />
+      <option name="url" value="https://nexus.nexttech.ro/repository/nti-servicelibs" />
     </remote-repository>
   </component>
 </project>
